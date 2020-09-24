@@ -34,4 +34,4 @@ The mount for the caster was surprisingly easy - because you can make several pa
 https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7bee1b91ddfe9c28/e/9d42a9123c746d6a105cdc09
 
 ### Reflection
-This was, again, pretty easy - very similar to SolidWorks. The keyboard shortcuts are nice, which is different from SolidWorks - most of them make sense as well, which is nice (c for circle, r for rectangle, etc.).
+This was, again, pretty easy - very similar to SolidWorks. The keyboard shortcuts are good; I suppose that's different from SolidWorks - most of them make sense as well, which is nice (c for circle, r for rectangle, etc.).
