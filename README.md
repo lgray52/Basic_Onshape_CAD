@@ -47,3 +47,15 @@ https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7
 
 ### Reflection
 This was fairly simple - the revolve feature in OnShape is good, but I did notice that it doesn't have degrees of rotation like SolidWorks did. 
+
+
+## Wheel
+
+### Image
+<img src="images/wheel.png" alt="wheel of caster" height="300"> <img src="images/wheel_and_tire.png" alt="wheel with tire for caster" height="300">
+
+### Link
+https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7bee1b91ddfe9c28/e/4ff4ade5d4f1bb438e030dfa
+
+### Reflection
+The trim feature does NOT have a power trim setting that I could find - it's honestly annoying to go around clicking all the little bits :unamused:. The circular feature pattern bit is fine; the fillet feature is good; I do think it's interesting that you can extrude a cut in Onshape rather than having to make a hole or whatever it was in SolidWorks - isn't that the opposite of what extrude means anyways?
