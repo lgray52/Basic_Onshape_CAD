@@ -35,3 +35,15 @@ https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7
 
 ### Reflection
 This was, again, pretty easy - very similar to SolidWorks. The keyboard shortcuts are good; I suppose that's different from SolidWorks - most of them make sense as well, which is nice (c for circle, r for rectangle, etc.).
+
+
+## Tire
+
+### Image
+<img src="images/tire.png" alt="tire for wheel of caster" height="300">
+
+### Link
+https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7bee1b91ddfe9c28/e/4ff4ade5d4f1bb438e030dfa
+
+### Reflection
+This was fairly simple - the revolve feature in OnShape is good, but I did notice that it doesn't have degrees of rotation like SolidWorks did. 
