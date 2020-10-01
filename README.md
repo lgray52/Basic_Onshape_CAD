@@ -11,6 +11,9 @@ Work for Basic CAD canvas module
 
 ## Base
 
+### Description
+This is the base part for the caster - made using OnShape, it's 200 mm by 120 mm and 8 mm thick, it has 7 holes, 6 six small (10mm), and 1 bigger (25mm).
+
 ### Image
 <img src="images/base.png" alt="base for caster" height="300">
 
@@ -18,10 +21,13 @@ Work for Basic CAD canvas module
 https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7bee1b91ddfe9c28/e/676039f8d353db6b20e01b77
 
 ### Reflection
-This is the base part for the caster. It has seven holes, six the same size (10mm) and made using linear patterns, and the other attached to the origin (25mm). I was surpried by how similar Onshape is to SolidWorks once you figure out where everything is.
+I was surpried by how similar Onshape is to SolidWorks. Once you figure out where everything is, it's relatively simple to use, and it's pretty effective as well.
 
 
 ## Mount
+
+### Description
+This is the mount piece for the caster - it is 120 mm by 120 mm and 8 mm thick, and it shares 5 of the holes from the base, including 4 small and the larger one as well.
 
 ### Image
 <img src="images/mount.png" alt="mount plate for caster" height="300">
@@ -35,6 +41,9 @@ The mount for the caster was surprisingly easy - because you can make several pa
 
 ## Fork
 
+### Description
+This assignment is for the fork of the caster which holds the wheel. It's based on a small cyclinder, 80 mm in diameter and 8 mm thick, with two "prongs" with fillets, 40 mm by 5 mm and 75 mm high, with a hole extruded through both prongs. The shaft of the fork is made up of two concentric circles, 15 and 20 mm, and 60 mm deep, with a chamfer on the edges.
+
 ### Image
 <img src="images/fork.png" alt="fork for wheel of caster" height="300">
 
@@ -47,6 +56,9 @@ This was, again, pretty easy - very similar to SolidWorks. The keyboard shortcut
 
 ## Tire
 
+### Description
+This is the tire for the wheel of the caster. It is a revolve, not an extrude, and the basic shape is a symmetrical trapezoid, revolved, then filletted to round it out. 
+
 ### Image
 <img src="images/tire.png" alt="tire for wheel of caster" height="300">
 
@@ -58,6 +70,9 @@ This was fairly simple - the revolve feature in OnShape is good, but I did notic
 
 
 ## Wheel
+
+### Description
+This is the wheel that goes with the tire for the caster. It starts as an oddly shaped combination of rectangles, which is revolved around a horizontal centre line to form a wheel shape with a wider edge and centre than the middle bit. Then, holes are extruded out of it and the edges filleted, then patterned circularly, to be finished with a fillet of the entirety of the faces on both sides of the wheel.
 
 ### Image
 <img src="images/wheel.png" alt="wheel of caster" height="300"> <img src="images/wheel_and_tire.png" alt="wheel with tire for caster" height="300">
