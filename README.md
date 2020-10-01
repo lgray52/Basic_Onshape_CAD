@@ -33,7 +33,7 @@ I was surpried by how similar Onshape is to SolidWorks. Once you figure out wher
 This is the mount piece for the caster - it is 120 mm by 120 mm and 8 mm thick, and it shares 5 of the holes from the base, including 4 small and the larger one as well.
 
 ### Image
-<img src="images/mount.png" alt="mount plate for caster" height="300">
+<img src="images/mount.png" alt="mount plate for caster" height="300"> <img src="images/just_mount.png" alt="mount plate for caster" height="300">
 
 ### Link 
 https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7bee1b91ddfe9c28/e/676039f8d353db6b20e01b77
