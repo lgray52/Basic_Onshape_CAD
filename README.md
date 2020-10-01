@@ -7,7 +7,7 @@ Work for Basic CAD canvas module
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [Axle and Collar](#Axle_and_Collar)
+* [Axle&Collar](#Axle&Collar)
 * [Bearing](#Bearing)
 * [Washer](#Washer)
 
@@ -87,7 +87,7 @@ https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7
 The trim feature does NOT have a power trim setting that I could find - it's honestly annoying to go around clicking all the little bits :unamused:. The circular feature pattern bit is fine; the fillet feature is good; I do think it's interesting that you can extrude a cut in Onshape rather than having to make a hole or whatever it was in SolidWorks - isn't that the opposite of what extrude means anyways?
 
 
-## Axle and Collar
+## Axle&Collar
 
 ### Description
 These are the axle and collar for the wheel of the caster. The axle is a hollow cylinder, with interior diameter 6 mm and exterior 10 mm, 60 mm deep symettric to the middle. It has a mirrored cutout for two flat parts at the ends. The collar is based on the geometry of the axle: the interior diameter is 10 mm and the exterior is 15mm. It has a 3 mm hole in it that goes through to the flat part on the end of the axle.
