@@ -7,7 +7,7 @@ Work for Basic CAD canvas module
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [Axle and Collar](#AxleandCollar)
+* [Axle and Collar](#Axle_and_Collar)
 * [Bearing](#Bearing)
 * [Washer](#Washer)
 
