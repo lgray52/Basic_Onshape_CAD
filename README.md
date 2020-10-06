@@ -10,8 +10,8 @@ Work for Basic CAD canvas module
 * [AxleCollar](#AxleCollar)
 * [Bearing](#Bearing)
 * [Washer](#Washer)
-
 * [SubAssembly](#SubAssembly)
+* [FinalProduct](#FinalProduct)
 
 
 ## Base
