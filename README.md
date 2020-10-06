@@ -147,3 +147,20 @@ https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7
 
 ### Reflection
 The mate features are pretty different in OnShape - there are different types, including the ones used in this sub-assembly: the fasten mate and the revolute mate. By using "mate connectors" of specific parts, you can mate parts easily in relation to other parts or features of the document (such as the origin). The fasten mate fixes a part in place in reltion to it's mate connector, significantly limiting the movement of that part. When I used the fasten mate for the wheel to the origin, it was unable to move entirely. The revolute mate fixes a part in places, but still allows it to rotate, as the name suggests, unlike a fasten mate.
+
+
+## FinalProduct
+
+### Description
+This assembly contains all the parts made in the previous sections of this project and the sub-assembly from the last section. It also includes several standard parts, including nuts and bolts. All of the pieces are mated together and organised into an actual caster!
+
+### Image
+<img src="images/final_product_1.png" alt="final product first picture" height="300"> <img src="images/final_product_2.png" alt="final product second picture" height="300">
+
+### Link
+https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7bee1b91ddfe9c28/e/16d0462e45dc0036790aa141
+
+### Reflection
+The mates system in OnShape is pretty cool - I think it will definitely save a lot of time doing CAD in projects in the future, because you can pretty much get any object where it needs to be in one or two mates, and it seems that usually, you only need one. That way, it would be easier to tell what mate is wrong and why, and I think it will make troubleshooting projects easier in the future. It's nice that you can use the 'm' key for mates, but you do have to check that it's executing the right type of mate as well.
+
+Overall, I found that this project was a good introduction to OnShape, and I feel that I have a working knowledge of it now. Between working on individual parts and working on assemblies and sub-assemblies, OnShape is streamlined and effective to use - I think it's a great addition to the Engineering courses, and it's especially nice because it's collaborative and accesible on chromebooks.
