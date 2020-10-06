@@ -11,6 +11,8 @@ Work for Basic CAD canvas module
 * [Bearing](#Bearing)
 * [Washer](#Washer)
 
+* [SubAssembly](#SubAssembly)
+
 
 ## Base
 
@@ -130,3 +132,18 @@ https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7
 ### Reflection
 This part was just super simple - I was able to do it very quickly. 
 Overall, making all of these parts has shown me how similar to SolidWorks OnShape really is. Having used SolidWorks a lot last year, doing all of these little parts in OnShape has been pretty easy with the provided instructions, and honestly kind of fun. In general, I think OnShape is better set up than SolidWorks, and I never have to worry about losing my progress or trying to figure out how to get back to something after I've screwed up again (yay!).
+
+
+## SubAssembly
+
+### Description
+The sub-assembly is a combination of the wheel, tire, axle, and two bearings made earlier in the process. They are put together using OnShape mating features. 
+
+### Image
+<img src="images/sub_assembly_1.png" alt="view of sub-assembly" height="300"> <img src="images/sub_assembly_2.png" alt="view of sub-assembly" height="300"> <img src="images/sub_assembly_3.png" alt="view of sub-assembly" height="300">
+
+### Link
+https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7bee1b91ddfe9c28/e/60e0aa2a7e88781b971503bf
+
+### Reflection
+The mate features are pretty different in OnShape - there are different types, including the ones used in this sub-assembly: the fasten mate and the revolute mate. By using "mate connectors" of specific parts, you can mate parts easily in relation to other parts or features of the document (such as the origin). The fasten mate fixes a part in place in reltion to it's mate connector, significantly limiting the movement of that part. When I used the fasten mate for the wheel to the origin, it was unable to move entirely. The revolute mate fixes a part in places, but still allows it to rotate, as the name suggests, unlike a fasten mate.
