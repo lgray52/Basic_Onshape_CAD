@@ -170,13 +170,13 @@ Overall, I found that this project was a good introduction to OnShape, and I fee
 ## DorothysDowelPins
 
 ### Description
-This assignment consisted of building a picture frame of dowel pins and frame parts. It concentrated on the use of configurations to make slightly different variations of the same pieces. The pins had to have diameters of 1/4 in, 3/8 in, 1/2 in, and 5/8 in, and lengths of 1/2 in, 1 in, 1 1/2 in, and 2 in, and be able to have or not have chamfered edges. OnShape gives you a little menu at the top to pick which characteristics you want a piece to have, and you can change this as well when putting a part in an assembly. The frame is made up of trapezoid bases, one 1 ft long, the other 1 1/2 ft long at it's longest edge, each 3/4 in thick. I composed the frame assmebly was composed with revolute and fasten mates, using two of each configuration of the frame parts, four 1/2 in diameter x 1/2 in length pins, and four 1/2 in diameter x 1 1/2 in length pins.
+This assignment consisted of building a picture frame of dowel pins and frame parts. It concentrated on the use of configurations to make slightly different variations of the same pieces. The pins had to have diameters of 1/4 in, 3/8 in, 1/2 in, and 5/8 in, and lengths of 1/2 in, 1 in, 1 1/2 in, and 2 in, and be able to have or not have chamfered edges. OnShape gives you a little menu at the top to pick which characteristics you want a piece to have, and you can change this as well when putting a part in an assembly. The frame is made up of trapezoid bases, one 1 ft long, the other 1 1/2 ft long at it's longest edge, each 3/4 in thick. I composed the frame assmebly with revolute and fasten mates, using two of each configuration of the frame parts, four 1/2 in diameter x 1/2 in length pins, and four 1/2 in diameter x 1 1/2 in length pins.
 
 ### Image
 <img src="images/dowel_pin.png" alt="picture of dowel pin" height="300"> <img src="images/frame_piece.png" alt="picture of a piece of the frame" height="300"> <img src="images/frame_assembly.png" alt="frame assembly" height="300">
 
 ### Link
-[Link](#https://cvilleschools.onshape.com/documents/b1096c359f89f14504d93b4c/w/22474111a026d8e585338eca/e/4d354edadbc7aedaf1b0b316)
+[Link](https://cvilleschools.onshape.com/documents/b1096c359f89f14504d93b4c/w/22474111a026d8e585338eca/e/4d354edadbc7aedaf1b0b316)
 
 ### Reflection
-The configuration feature in OnShape is pretty good - it's fairly easy to use, and it's pretty well organised. I like the little menu where you can click which characteristics you want the piece to have - I don't remember if SolidWorks had anything like that, but it's pretty neat. The instructions for the frame piece were pretty vague, so that took a little thinking, but in general, this mini project was fairly simple, and a good introduction to configurations in OnShape.
+The configuration feature in OnShape is pretty good - it's fairly easy to use, and it's pretty well organised. I like the little menu where you can click which characteristics you want the piece to have - I don't remember if SolidWorks had anything like that, but it's pretty neat. The instructions for the frame piece were kind of vague, so that took a little thinking, but in general, this mini project was fairly simple, and a good introduction to configurations in OnShape.
