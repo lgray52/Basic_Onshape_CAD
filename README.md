@@ -12,7 +12,7 @@ Work for Basic CAD canvas module
 * [Washer](#Washer)
 * [SubAssembly](#SubAssembly)
 * [FinalProduct](#FinalProduct)
-* [Dorthy'sDowelPins](#Dorothy'sDowelPins)
+* [DorthysDowelPins](#DorothysDowelPins)
 
 
 ## Base
@@ -167,7 +167,7 @@ The mates system in OnShape is pretty cool - I think it will definitely save a l
 Overall, I found that this project was a good introduction to OnShape, and I feel that I have a working knowledge of it now. Between working on individual parts and working on assemblies and sub-assemblies, OnShape is streamlined and effective to use - I think it's a great addition to the Engineering courses, and it's especially nice because it's collaborative and accesible on chromebooks.
 
 
-## Dorothy'sDowelPins
+## DorothysDowelPins
 
 ### Description
 This assignment consisted of building a picture frame of dowel pins and frame parts. It concentrated on the use of configurations to make slightly different variations of the same pieces. The pins had to have diameters of 1/4 in, 3/8 in, 1/2 in, and 5/8 in, and lengths of 1/2 in, 1 in, 1 1/2 in, and 2 in, and be able to have or not have chamfered edges. OnShape gives you a little menu at the top to pick which characteristics you want a piece to have, and you can change this as well when putting a part in an assembly. The frame is made up of trapezoid bases, one 1 ft long, the other 1 1/2 ft long at it's longest edge, each 3/4 in thick. I composed the frame assmebly was composed with revolute and fasten mates, using two of each configuration of the frame parts, four 1/2 in diameter x 1/2 in length pins, and four 1/2 in diameter x 1 1/2 in length pins.
