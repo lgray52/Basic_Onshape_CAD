@@ -2,6 +2,8 @@
 Work for Basic CAD canvas module
 
 ## Table of Contents
+
+### Caster
 * [Base](#Base)
 * [Mount](#Mount)
 * [Fork](#Fork)
@@ -12,7 +14,10 @@ Work for Basic CAD canvas module
 * [Washer](#Washer)
 * [SubAssembly](#SubAssembly)
 * [FinalProduct](#FinalProduct)
+
+### Extra Projects
 * [DorthysDowelPins](#DorothysDowelPins)
+* [OnShapeChallenge](#OnShapeChallenge)
 
 
 ## Base
@@ -180,3 +185,18 @@ This assignment consisted of building a picture frame of dowel pins and frame pa
 
 ### Reflection
 The configuration feature in OnShape is pretty good - it's fairly easy to use, and it's pretty well organised. I like the little menu where you can click which characteristics you want the piece to have - I don't remember if SolidWorks had anything like that, but it's pretty neat. The instructions for the frame piece were kind of vague, so that took a little thinking, but in general, this mini project was fairly simple, and a good introduction to configurations in OnShape.
+
+
+## OnShapeChallenge
+
+### Description
+The challenge here is to make and assemble a set of pieces, which, when combined, are able to be mated together and rotate about one another. There are two forks, a cube thing, and a bracket to hold the pieces. Having done this for my midterm last year, I think I was at a slight advantage because I knew how it sort of worked already. Trying to get the mates right and figuring out which ones to use was a little bit tricky, especially since a lot depends on which surface/mate connector you click first, but once you get past that, all the parts are fairly simple. The cube is 20mm on all sides with four cylinders in a circular pattern centered on the faces, 8mm in diameter and 10mm deep. The forks are 30mm diameter by 50mm cylinders with a second cylinder of 10mm diameter by 20mm on the end, and a 30mm deep cut 20mm wide with fillets on the prong edges. The bracket starts as several lines and is extruded as a surface (that took me a minute - there's a button for it in the extrude menu) then thickened by 5mm, with fillets and two holes for the handles of the forks. I assembled it using revolute and cylindrical mates.
+
+### Image
+<img src="images/cube.png" alt="cube piece" height="300"> <img src="images/spinner.png" alt="fork piece" height="300"> <img src="images/bracket.png" alt="bracket" height="300"> <img src="images/final_1.png" alt="one view of the final assembly" height="300"> <img src="images/final_2.png" alt="a second view of the final assembly" height="300">
+
+### Link
+[Link](https://cvilleschools.onshape.com/documents/f8c767423b45941fc3f63ad2/w/eeb33a1b3421a3b4b777a5a9/e/6e86b7498dbaaf97022e1430)
+
+### Reflection
+Even though I had done this before, it is definitely different in OnShape than SolidWorks - I don't remember exactly how I did the mates in SolidWorks, but it took me a couple tries in OnShape before I got it to be solved properly and functionally spinning. The pieces were pretty simple - like I mentioned before, it did take me a couple minutes to find the surface feature, but other than that, I didn't run into any major difficulties.
