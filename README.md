@@ -102,7 +102,7 @@ The trim feature does NOT have a power trim setting that I could find - it's hon
 These are the axle and collar for the wheel of the caster. The axle is a hollow cylinder, with interior diameter 6 mm and exterior 10 mm, 60 mm deep symettric to the middle. It has a mirrored cutout for two flat parts at the ends. The collar is based on the geometry of the axle: the interior diameter is 10 mm and the exterior is 15mm. It has a 3 mm hole in it that goes through to the flat part on the end of the axle.
 
 ### Image
-<img src="images/axle.png" alt="axle for wheel of caster" height="300"> <img src="images/axle_and_collar.png" alt="axle and collar together" height="300"> <img src="images/collar.png" alt="collar for axle" height="300">
+<img src="images/axle.png" alt="axle for wheel of caster" height="250"> <img src="images/axle_and_collar.png" alt="axle and collar together" height="250"> <img src="images/collar.png" alt="collar for axle" height="250">
 
 ### Link
 [Link](https://cvilleschools.onshape.com/documents/c50fa4f5b714985a9ecb4188/w/1559368d7bee1b91ddfe9c28/e/56a93cc6954f9d67b82221fc)
@@ -179,7 +179,7 @@ Overall, I found that this project was a good introduction to OnShape, and I fee
 This assignment consisted of building a picture frame of dowel pins and frame parts. It concentrated on the use of configurations to make slightly different variations of the same pieces. The pins had to have diameters of 1/4 in, 3/8 in, 1/2 in, and 5/8 in, and lengths of 1/2 in, 1 in, 1 1/2 in, and 2 in, and be able to have or not have chamfered edges. OnShape gives you a little menu at the top to pick which characteristics you want a piece to have, and you can change this as well when putting a part in an assembly. The frame is made up of trapezoid bases, one 1 ft long, the other 1 1/2 ft long at it's longest edge, each 3/4 in thick. I composed the frame assmebly with revolute and fasten mates, using two of each configuration of the frame parts, four 1/2 in diameter x 1/2 in length pins, and four 1/2 in diameter x 1 1/2 in length pins.
 
 ### Image
-<img src="images/dowel_pin.png" alt="picture of dowel pin" height="300"> <img src="images/frame_piece.png" alt="picture of a piece of the frame" height="300"> <img src="images/frame_assembly.png" alt="frame assembly" height="300">
+<img src="images/dowel_pin.png" alt="picture of dowel pin" height="250"> <img src="images/frame_piece.png" alt="picture of a piece of the frame" height="250"> <img src="images/frame_assembly.png" alt="frame assembly" height="250">
 
 ### Link
 [Link](https://cvilleschools.onshape.com/documents/b1096c359f89f14504d93b4c/w/22474111a026d8e585338eca/e/4d354edadbc7aedaf1b0b316)
@@ -194,7 +194,7 @@ The configuration feature in OnShape is pretty good - it's fairly easy to use, a
 The challenge here is to make and assemble a set of pieces, which, when combined, are able to be mated together and rotate about one another. There are two forks, a cube thing, and a bracket to hold the pieces. Having done this for my midterm last year, I think I was at a slight advantage because I knew how it sort of worked already. Trying to get the mates right and figuring out which ones to use was a little bit tricky, especially since a lot depends on which surface/mate connector you click first, but once you get past that, all the parts are fairly simple. The cube is 20mm on all sides with four cylinders in a circular pattern centered on the faces, 8mm in diameter and 10mm deep. The forks are 30mm diameter by 50mm cylinders with a second cylinder of 10mm diameter by 20mm on the end, and a 30mm deep cut 20mm wide with fillets on the prong edges. The bracket starts as several lines and is extruded as a surface (that took me a minute - there's a button for it in the extrude menu) then thickened by 5mm, with fillets and two holes for the handles of the forks. I assembled it using revolute and cylindrical mates.
 
 ### Image
-<img src="images/cube.png" alt="cube piece" height="300"> <img src="images/spinner.png" alt="fork piece" height="300"> <img src="images/bracket.png" alt="bracket" height="300"> <img src="images/final_1.png" alt="one view of the final assembly" height="300"> <img src="images/final_2.png" alt="a second view of the final assembly" height="300">
+<img src="images/cube.png" alt="cube piece" height="250"> <img src="images/spinner.png" alt="fork piece" height="250"> <img src="images/bracket.png" alt="bracket" height="250"> <img src="images/final_1.png" alt="one view of the final assembly" height="250"> <img src="images/final_2.png" alt="a second view of the final assembly" height="250">
 
 ### Link
 [Link](https://cvilleschools.onshape.com/documents/f8c767423b45941fc3f63ad2/w/eeb33a1b3421a3b4b777a5a9/e/6e86b7498dbaaf97022e1430)
@@ -209,7 +209,7 @@ Even though I had done this before, it is definitely different in OnShape than S
 This challenge used the collaborative features of OnShape to design an assembly with seven parts made by different people in the group. Because no dimensions were provided in the description, communicating effectively and problem solving within the group was very important. My group started by setting "driving dimensions" of different parts, which allowed us to begin designing our parts with basic dimensions in mind. Though in the assembly the parts proved to need slight modifications, these driving dimension made the process altogether easier. The parts were: a handle (?), a connector for the handle, a cylinder, a holder for the cylinder, a shaft, two base pieces with different configurations, and four pins holding the base pieces. We divided up these parts to make - originally, I was going to do the cylinder and it's holder, but Atticus was having connection difficulties, so we decided I should do the shaft as well to save a little time. It was assembled using mostly fasten mates and a slider mate for the cylinder section.
 
 ### Image
-<img src="images/cylinder.png" alt="cylinder" height="300"> <img src="images/cylinder_holder.png" alt="cylinder holder" height="300"> <img src="images/shaft.png" alt="shaft" height="300"> <img src="images/part_studio_collab.png" alt="part studio" height="300"> <img src="images/final_assembly_collab.png" alt="first view of final assembly" height="300"> <img src="images/side_final_assembly_collab.png" alt="seconf view of final assembly" height="300">
+<img src="images/cylinder.png" alt="cylinder" height="250"> <img src="images/cylinder_holder.png" alt="cylinder holder" height="250"> <img src="images/shaft.png" alt="shaft" height="250"> <img src="images/part_studio_collab.png" alt="part studio" height="250"> <img src="images/final_assembly_collab.png" alt="first view of final assembly" height="250"> <img src="images/side_final_assembly_collab.png" alt="seconf view of final assembly" height="250">
 
 ### Link
 [Link](https://cvilleschools.onshape.com/documents/a5a80adf4b7d869c3caca898/w/47931a52a0fbec49aa3fa806/e/a39da62e574347a7d1171e8d)
