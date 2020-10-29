@@ -18,6 +18,7 @@ Work for Basic CAD canvas module
 ### Extra Projects
 * [DorthysDowelPins](#DorothysDowelPins)
 * [OnShapeChallenge](#OnShapeChallenge)
+* [CollaborationChallenge](#CollaborationChallenge)
 
 
 ## Base
@@ -200,3 +201,18 @@ The challenge here is to make and assemble a set of pieces, which, when combined
 
 ### Reflection
 Even though I had done this before, it is definitely different in OnShape than SolidWorks - I don't remember exactly how I did the mates in SolidWorks, but it took me a couple tries in OnShape before I got it to be solved properly and functionally spinning. The pieces were pretty simple - like I mentioned before, it did take me a couple minutes to find the surface feature, but other than that, I didn't run into any major difficulties.
+
+
+## CollaborationChallenge
+
+### Description
+This challenge used the collaborative features of OnShape to design an assembly with seven parts made by different people in the group. Because no dimensions were provided in the description, communicating effectively and problem solving within the group was very important. My group started by setting "driving dimensions" of different parts, which allowed us to begin designing our parts with basic dimensions in mind. Though in the assembly the parts proved to need slight modifications, these driving dimension made the process altogether easier. The parts were: a handle (?), a connector for the handle, a cylinder, a holder for the cylinder, a shaft, two base pieces with different configurations, and four pins holding the base pieces. We divided up these parts to make - originally, I was going to do the cylinder and it's holder, but Atticus was having connection difficulties, so we decided I should do the shaft as well to save a little time. It was assembled using mostly fasten mates and a slider mate for the cylinder section.
+
+### Image
+<img src="images/cylinder.png" alt="cylinder" height="300"> <img src="images/cylinder_holder.png" alt="cylinder holder" height="300"> <img src="images/shaft.png" alt="shaft" height="300"> <img src="images/part_studio_collab.png" alt="part studio" height="300"> <img src="images/final_assembly_collab.png" alt="first view of final assembly" height="300"> <img src="images/side_final_assembly_collab.png" alt="seconf view of final assembly" height="300">
+
+### Link
+[Link](https://cvilleschools.onshape.com/documents/a5a80adf4b7d869c3caca898/w/47931a52a0fbec49aa3fa806/e/a39da62e574347a7d1171e8d)
+
+### Reflection
+This was an interesting project, because it shows how OnShape can work collaboratively quite effectively - as long as you communicate. Making the pieces was easy enough, but getting them to go together was another story - again, it wasn't too horribly difficult, it just took a little bit of effort. Figuring out how to use the slider mate was a little tricky as well - I didn't realise that the minimum value had to be negative for the piece to slide in the other direction. Overall, this project was pretty intersting, and a good introduction to OnShape teamwork.
